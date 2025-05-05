@@ -13,6 +13,18 @@ const projects = [
     description: "In-progress chat application with notifications, timestamps, and chat history.",
     tech: "React.js, Node.js, MongoDB",
     github: "https://github.com/Rishabh-Pandey007/chat-application"
+  },
+  {
+    title: "Portfolio Website",
+    description: "Personal portfolio website built using React and Tailwind CSS with smooth scroll and animations.",
+    tech: "React.js, Tailwind CSS, Vite, Framer Motion",
+    github: "https://github.com/Rishabh-Pandey007/rishabh_porfolio_react"
+  },
+  {
+    title: "ANPR System",
+    description: "Automatic Number Plate Recognition using Python for image processing, Node.js as backend, and React.js for dashboard.",
+    tech: "Python, OpenCV, Node.js, React.js",
+    github: "https://github.com/Rishabh-Pandey007/ANPR_React",
   }
 ];
 
